@@ -1,0 +1,29 @@
+{
+  "name": "yes-yes-yes",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/fair-test/yes-yes-yes",
+  "dateCreated": "2024-10-31",
+  "description": "fasdfas",
+  "issueTracker": "https://github.com/fair-test/yes-yes-yes/issues",
+  "keywords": [
+    "eeerdf"
+  ],
+  "programmingLanguage": [
+    "C++",
+    "Abap"
+  ],
+  "type": "SoftwareSourceCode"
+}
