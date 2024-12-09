@@ -34,6 +34,17 @@
       "roleName": "jon 2 here",
       "schema:author": "https://jon",
       "type": "Role"
+    },
+    {
+      "roleName": "jon here",
+      "startDate": "2024-12-01",
+      "schema:author": "https://jon",
+      "type": "Role"
+    },
+    {
+      "roleName": "jon 2 here",
+      "schema:author": "https://jon",
+      "type": "Role"
     }
   ],
   "contributor": [
