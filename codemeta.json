@@ -1,117 +1,37 @@
 {
-  "name": "yes-yes-yes",
-  "@context": "https://w3id.org/codemeta/3.0",
-  "author": [
-    {
-      "affiliation": {
-        "name": "FAIR Data Innovations Hub",
-        "type": "Organization"
-      },
-      "email": "wheresdorian@gmail.com",
-      "familyName": "Portillo",
-      "id": "_:author_1",
-      "givenName": "Dorian",
-      "type": "Person"
-    },
-    {
-      "affiliation": {
-        "name": "univ of jon",
-        "type": "Organization"
-      },
-      "email": "jon@gmail.com",
-      "familyName": "doe",
-      "id": "https://jon",
-      "givenName": "jone",
-      "type": "Person"
-    },
-    {
-      "roleName": "jon here",
-      "startDate": "2024-12-01",
-      "schema:author": "https://jon",
-      "type": "Role"
-    },
-    {
-      "roleName": "jon 2 here",
-      "schema:author": "https://jon",
-      "type": "Role"
-    },
-    {
-      "roleName": "jon here",
-      "startDate": "2024-12-01",
-      "schema:author": "https://jon",
-      "type": "Role"
-    },
-    {
-      "roleName": "jon 2 here",
-      "schema:author": "https://jon",
-      "type": "Role"
-    }
-  ],
-  "contributor": [
-    {
-      "affiliation": {
-        "name": "uni",
-        "type": "Organization"
-      },
-      "email": "mess@gmail.com",
-      "familyName": "mess",
-      "id": "_:contributor_1",
-      "givenName": "contrib",
-      "type": "Person"
-    }
-  ],
-  "codemeta:continuousIntegration": {
-    "id": "https://cont.integration"
-  },
-  "codemeta:isSourceCodeOf": {
-    "id": "isSourceCodeOf"
-  },
-  "codeRepository": "https://github.com/fair-test/yes-yes-yes",
-  "contIntegration": "https://cont.integration",
-  "dateCreated": "2024-10-31",
-  "dateModified": "2024-12-01",
-  "datePublished": "2024-12-01",
-  "description": "input description",
-  "developmentStatus": "inactive",
-  "downloadUrl": "https://download.url",
-  "funder": {
-    "name": "funding organization",
-    "type": "Organization"
-  },
-  "funding": "input funding code",
-  "isPartOf": "https://isPartOf.com",
-  "issueTracker": "https://github.com/fair-test/yes-yes-yes/issues",
-  "keywords": [
-    "hehe",
-    "haha",
-    "lol"
-  ],
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
   "license": "https://spdx.org/licenses/MIT",
-  "operatingSystem": [
-    "Windows 11",
-    "Windows 8",
-    "Windows 8.1",
-    "Windows 10",
-    "Big Sur (macOS 11)"
+  "codeRepository": "https://github.com/megasanjay/test1",
+  "dateCreated": "2022-03-14T18:41:29Z",
+  "dateModified": "2024-10-17",
+  "issueTracker": "https://github.com/megasanjay/test1/issues",
+  "name": "test",
+  "identifier": "10.5281/zenodo.118732",
+  "description": "test ddescription 2",
+  "funder": {
+    "@type": "Organization",
+    "@name": "National Institutes of Health (NIH)"
+  },
+  "keywords": [
+    "COVID-19",
+    "Machine Learning"
   ],
   "programmingLanguage": [
-    "C",
-    "C++",
-    "C#"
+    "Ada"
   ],
-  "relatedLink": [
-    "https://related",
-    "https://link"
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Sanjay",
+      "familyName": "Soundarajan",
+      "email": "ssoundarajan@calmi2.org",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "@fairdataihub"
+      }
+    }
   ],
-  "runtimePlatform": [
-    "JVM"
-  ],
-  "schema:releaseNotes": "release notes",
-  "softwareRequirements": [
-    "other",
-    "software",
-    "requirements"
-  ],
-  "version": "0.1",
-  "type": "SoftwareSourceCode"
+  "version": "v5.0.6",
+  "datePublished": "2024-10-10"
 }
